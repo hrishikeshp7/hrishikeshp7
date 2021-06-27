@@ -7,6 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a simple Discord Bot](https://dev-blog.hriship.live/how-to-create-a-simple-discord-bot)
+- [How to do Simple Arithmetic Calculations using C++](https://dev-blog.hriship.live/how-to-do-simple-arithmetic-calculations-using-c)
+- [How to get Data Variable Size in C++](https://dev-blog.hriship.live/how-to-get-data-variable-size-in-c)
+- [How to get Day of the Week on a Date in C++](https://dev-blog.hriship.live/how-to-get-day-of-the-week-on-a-date-in-c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
