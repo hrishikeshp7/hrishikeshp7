@@ -5,7 +5,7 @@
 
 - Contact me through **contact@hriship.live**
 
-### Blogs posts
+### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to create a simple Discord Bot](https://dev-blog.hriship.live/how-to-create-a-simple-discord-bot)
 - [How to do Simple Arithmetic Calculations using C++](https://dev-blog.hriship.live/how-to-do-simple-arithmetic-calculations-using-c)
