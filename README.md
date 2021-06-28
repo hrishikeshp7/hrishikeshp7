@@ -7,6 +7,8 @@
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create PDF from Image in Python](https://dev-blog.hriship.live/how-to-create-pdf-from-image-in-python)
+- [How to Make and Use a Personal Downloader using Python](https://dev-blog.hriship.live/how-to-make-and-use-a-personal-downloader-using-python)
 - [How to Kill Tasks in Command Prompt](https://dev-blog.hriship.live/how-to-kill-tasks-in-command-prompt)
 - [How To Make A Gas Detection Machine(PPM)](https://dev-blog.hriship.live/how-to-make-a-gas-detection-machineppm)
 - [How to do Simple Arithmetic Calculations using C++](https://dev-blog.hriship.live/how-to-do-simple-arithmetic-calculations-using-c)
