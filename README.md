@@ -7,6 +7,7 @@
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Kill Tasks in Command Prompt](https://dev-blog.hriship.live/how-to-kill-tasks-in-command-prompt)
 - [How To Make A Gas Detection Machine(PPM)](https://dev-blog.hriship.live/how-to-make-a-gas-detection-machineppm)
 - [How to do Simple Arithmetic Calculations using C++](https://dev-blog.hriship.live/how-to-do-simple-arithmetic-calculations-using-c)
 - [How to get Data Variable Size in C++](https://dev-blog.hriship.live/how-to-get-data-variable-size-in-c)
