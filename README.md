@@ -7,6 +7,7 @@
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Calculator in JavaScript / HTML](https://dev-blog.hriship.live/how-to-make-a-calculator-in-javascript-html)
 - [How to Create PDF from Image in Python](https://dev-blog.hriship.live/how-to-create-pdf-from-image-in-python)
 - [How to Make and Use a Personal Downloader using Python](https://dev-blog.hriship.live/how-to-make-and-use-a-personal-downloader-using-python)
 - [How to Kill Tasks in Command Prompt](https://dev-blog.hriship.live/how-to-kill-tasks-in-command-prompt)
