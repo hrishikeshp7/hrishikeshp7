@@ -1,5 +1,7 @@
 name: Latest blog post workflow
-on: [issues]
+on: 
+    schedule: 
+     - cron: 0 */4 * * *
     
 jobs: 
     update-readme-with-blog: 
