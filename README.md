@@ -7,6 +7,7 @@
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My New EDU-Blog](https://dev-blog.hriship.live/my-new-edu-blog)
 - [2 Best Online IDE's You should get your Hands on](https://dev-blog.hriship.live/2-best-online-ides-you-should-get-your-hands-on)
 - [Is there any Limit on QR Code Data ?](https://dev-blog.hriship.live/is-there-any-limit-on-qr-code-data)
 - [How to make a Calculator in JavaScript / HTML](https://dev-blog.hriship.live/how-to-make-a-calculator-in-javascript-html)
