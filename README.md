@@ -7,6 +7,7 @@
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to do smart water management project for kids with nano](https://dev-blog.hriship.live/how-to-do-smart-water-management-project-for-kids-with-nano)
 - [My New EDU-Blog](https://dev-blog.hriship.live/my-new-edu-blog)
 - [2 Best Online IDE's You should get your Hands on](https://dev-blog.hriship.live/2-best-online-ides-you-should-get-your-hands-on)
 - [Is there any Limit on QR Code Data ?](https://dev-blog.hriship.live/is-there-any-limit-on-qr-code-data)
@@ -18,7 +19,6 @@
 - [How to do Simple Arithmetic Calculations using C++](https://dev-blog.hriship.live/how-to-do-simple-arithmetic-calculations-using-c)
 - [How to get Data Variable Size in C++](https://dev-blog.hriship.live/how-to-get-data-variable-size-in-c)
 - [How to get Day of the Week on a Date in C++](https://dev-blog.hriship.live/how-to-get-day-of-the-week-on-a-date-in-c)
-- [How to get SSL Certificate from Let's Encrypt Manually (Using CMD or Terminal)](https://dev-blog.hriship.live/how-to-get-ssl-certificate-from-lets-encrypt-manually-using-cmd-or-terminal)
 <!-- BLOG-POST-LIST:END -->
 
 
