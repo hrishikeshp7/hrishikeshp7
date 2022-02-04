@@ -7,6 +7,7 @@
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Types of Hacking &lpar;General Ranged&rpar;](https://dev-blog.hriship.live/types-of-hacking-general-ranged)
 - [Which Language is the best ?](https://dev-blog.hriship.live/which-language-is-the-best)
 - [How to do smart water management project for kids with nano](https://dev-blog.hriship.live/how-to-do-smart-water-management-project-for-kids-with-nano)
 - [My New EDU-Blog](https://dev-blog.hriship.live/my-new-edu-blog)
@@ -18,7 +19,6 @@
 - [How to Kill Tasks in Command Prompt](https://dev-blog.hriship.live/how-to-kill-tasks-in-command-prompt)
 - [How To Make A Gas Detection Machine&lpar;PPM&rpar;](https://dev-blog.hriship.live/how-to-make-a-gas-detection-machineppm)
 - [How to do Simple Arithmetic Calculations using C++](https://dev-blog.hriship.live/how-to-do-simple-arithmetic-calculations-using-c)
-- [How to get Data Variable Size in C++](https://dev-blog.hriship.live/how-to-get-data-variable-size-in-c)
 <!-- BLOG-POST-LIST:END -->
 
 
