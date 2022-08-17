@@ -7,18 +7,18 @@
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Types of Hacking &lpar;General Ranged&rpar;](https://dev-blog.hriship.live/types-of-hacking-general-ranged)
-- [Which Language is the best ?](https://dev-blog.hriship.live/which-language-is-the-best)
-- [How to do smart water management project for kids with nano](https://dev-blog.hriship.live/how-to-do-smart-water-management-project-for-kids-with-nano)
-- [My New EDU-Blog](https://dev-blog.hriship.live/my-new-edu-blog)
-- [2 Best Online IDE&#39;s You should get your Hands on](https://dev-blog.hriship.live/2-best-online-ides-you-should-get-your-hands-on)
-- [Is there any Limit on QR Code Data ?](https://dev-blog.hriship.live/is-there-any-limit-on-qr-code-data)
-- [How to make a Calculator in JavaScript / HTML](https://dev-blog.hriship.live/how-to-make-a-calculator-in-javascript-html)
-- [How to Create PDF from Image in Python](https://dev-blog.hriship.live/how-to-create-pdf-from-image-in-python)
-- [How to Make and Use a Personal Downloader using Python](https://dev-blog.hriship.live/how-to-make-and-use-a-personal-downloader-using-python)
-- [How to Kill Tasks in Command Prompt](https://dev-blog.hriship.live/how-to-kill-tasks-in-command-prompt)
-- [How To Make A Gas Detection Machine&lpar;PPM&rpar;](https://dev-blog.hriship.live/how-to-make-a-gas-detection-machineppm)
-- [How to do Simple Arithmetic Calculations using C++](https://dev-blog.hriship.live/how-to-do-simple-arithmetic-calculations-using-c)
+- [Types of Hacking &lpar;General Ranged&rpar;](https://hrishi.tk/types-of-hacking-general-ranged)
+- [Which Language is the best ?](https://hrishi.tk/which-language-is-the-best)
+- [How to do smart water management project for kids with nano](https://hrishi.tk/how-to-do-smart-water-management-project-for-kids-with-nano)
+- [My New EDU-Blog](https://hrishi.tk/my-new-edu-blog)
+- [2 Best Online IDE&#39;s You should get your Hands on](https://hrishi.tk/2-best-online-ides-you-should-get-your-hands-on)
+- [Is there any Limit on QR Code Data ?](https://hrishi.tk/is-there-any-limit-on-qr-code-data)
+- [How to make a Calculator in JavaScript / HTML](https://hrishi.tk/how-to-make-a-calculator-in-javascript-html)
+- [How to Create PDF from Image in Python](https://hrishi.tk/how-to-create-pdf-from-image-in-python)
+- [How to Make and Use a Personal Downloader using Python](https://hrishi.tk/how-to-make-and-use-a-personal-downloader-using-python)
+- [How to Kill Tasks in Command Prompt](https://hrishi.tk/how-to-kill-tasks-in-command-prompt)
+- [How To Make A Gas Detection Machine&lpar;PPM&rpar;](https://hrishi.tk/how-to-make-a-gas-detection-machineppm)
+- [How to do Simple Arithmetic Calculations using C++](https://hrishi.tk/how-to-do-simple-arithmetic-calculations-using-c)
 <!-- BLOG-POST-LIST:END -->
 
 
