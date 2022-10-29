@@ -3,7 +3,7 @@
 
 
 
-- Contact me through **contact@hriship.live**
+- Contact me through **contact@hrishi.tk**
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
