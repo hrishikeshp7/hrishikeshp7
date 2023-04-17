@@ -3,7 +3,7 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 (async () => {
-  const feed = await parser.parseURL('https://www.example.com/feed.xml');
+  const feed = await parser.parseURL('https://dev.hrishi.ml/rss.xml');
   console.log(feed.title);
 
   feed.items.forEach(item => {
