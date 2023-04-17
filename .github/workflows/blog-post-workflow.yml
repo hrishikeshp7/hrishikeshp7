@@ -1,17 +1,16 @@
-name: Latest blog post workflow
-on: 
+name: RSS Feed Cron Job
 
+on:
+  schedule:
+    - cron: '0 * * * *'
 
-    schedule: 
-     - cron: 0 0 * * 1,3,5
-    
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "12"
-                feed_list: "https://hrishi.tk/rss.xml"
+jobs:
+  rss-feed-cron-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm install
+      - name: Run RSS feed cron job
+        run: node rss-feed-cron-job.js
