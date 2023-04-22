@@ -7,18 +7,16 @@
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Types of Hacking &lpar;General Ranged&rpar;](https://hrishi.tk/types-of-hacking-general-ranged)
-- [Which Language is the best ?](https://hrishi.tk/which-language-is-the-best)
-- [How to do smart water management project for kids with nano](https://hrishi.tk/how-to-do-smart-water-management-project-for-kids-with-nano)
-- [My New EDU-Blog](https://hrishi.tk/my-new-edu-blog)
-- [2 Best Online IDE&#39;s You should get your Hands on](https://hrishi.tk/2-best-online-ides-you-should-get-your-hands-on)
-- [Is there any Limit on QR Code Data ?](https://hrishi.tk/is-there-any-limit-on-qr-code-data)
-- [How to make a Calculator in JavaScript / HTML](https://hrishi.tk/how-to-make-a-calculator-in-javascript-html)
-- [How to Create PDF from Image in Python](https://hrishi.tk/how-to-create-pdf-from-image-in-python)
-- [How to Make and Use a Personal Downloader using Python](https://hrishi.tk/how-to-make-and-use-a-personal-downloader-using-python)
-- [How to Kill Tasks in Command Prompt](https://hrishi.tk/how-to-kill-tasks-in-command-prompt)
-- [How To Make A Gas Detection Machine&lpar;PPM&rpar;](https://hrishi.tk/how-to-make-a-gas-detection-machineppm)
-- [How to do Simple Arithmetic Calculations using C++](https://hrishi.tk/how-to-do-simple-arithmetic-calculations-using-c)
+- [How to do smart water management project for kids with nano](https://dev.hrishi.ml/how-to-do-smart-water-management-project-for-kids-with-nano)
+- [2 Best Online IDE&#39;s You should get your Hands on](https://dev.hrishi.ml/2-best-online-ides-you-should-get-your-hands-on)
+- [Is there any Limit on QR Code Data ?](https://dev.hrishi.ml/is-there-any-limit-on-qr-code-data)
+- [How to make a Calculator in JavaScript / HTML](https://dev.hrishi.ml/how-to-make-a-calculator-in-javascript-html)
+- [How to Create PDF from Image in Python](https://dev.hrishi.ml/how-to-create-pdf-from-image-in-python)
+- [How to Make and Use a Personal Downloader using Python](https://dev.hrishi.ml/how-to-make-and-use-a-personal-downloader-using-python)
+- [How to Kill Tasks in Command Prompt](https://dev.hrishi.ml/how-to-kill-tasks-in-command-prompt)
+- [How To Make A Gas Detection Machine&lpar;PPM&rpar;](https://dev.hrishi.ml/how-to-make-a-gas-detection-machineppm)
+- [How to do Simple Arithmetic Calculations using C++](https://dev.hrishi.ml/how-to-do-simple-arithmetic-calculations-using-c)
+- [How to get Data Variable Size in C++](https://dev.hrishi.ml/how-to-get-data-variable-size-in-c)
 <!-- BLOG-POST-LIST:END -->
 
 
