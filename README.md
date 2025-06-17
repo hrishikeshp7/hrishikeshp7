@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HP</h1>
 
 
-- Contact me through **contact@hrishi.codes**
+- Contact me through **contact@hpd47.xyz**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikeshp7&show_icons=true&locale=en&layout=compact" alt="hrishikeshp7" /></p>
